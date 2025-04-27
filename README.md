@@ -64,8 +64,9 @@ plt.show()
 ![image](https://github.com/user-attachments/assets/07d3d5ed-049a-48bb-8188-59814d255e51)
 
 
-# Graph
+# Graph:
 
+![image](https://github.com/user-attachments/assets/0cc2f0ee-d34c-4d1e-8d64-57836c8814f7)
 
 # Result
 
